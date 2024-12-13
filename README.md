@@ -17,7 +17,10 @@ I specialize in:
 
 I'm passionate about leveraging technology to create impactful solutions, from developing AR projects for indoor pattern detection to designing traffic flow solutions with RNNs and attention mechanisms.
 
-Let's connect and innovate together!
+---
+
+## Let's Collaborate!
+If you're looking for a solution-driven engineer with expertise in AI, Robotics, and Software Engineering, let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuraghruday/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag.hruday@gmail.com)
@@ -42,6 +45,9 @@ Let's connect and innovate together!
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23F7931E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-%23FF6F00.svg?style=for-the-badge&logo=YOLO&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-%23EA4335.svg?style=for-the-badge&logo=mediapipe&logoColor=white)
 
 ### Data Analysis & Visualization
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -49,11 +55,6 @@ Let's connect and innovate together!
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233377B3.svg?style=for-the-badge&logo=data%20visualization&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23FFFFFF.svg?style=for-the-badge&logo=data%20visualization&logoColor=blue)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-%23FF6F00.svg?style=for-the-badge&logo=YOLO&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-%23EA4335.svg?style=for-the-badge&logo=mediapipe&logoColor=white)
 
 ### Robotics
 ![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -66,8 +67,6 @@ Let's connect and innovate together!
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -79,12 +78,10 @@ Let's connect and innovate together!
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Cloud Platforms
+### Other
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -100,7 +97,4 @@ Let's connect and innovate together!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuraghruday&theme=gotham&utcOffset=5)
 
 
----
 
-## Let's Collaborate!
-If you're looking for a solution-driven engineer with expertise in AI, Robotics, and Software Engineering, let's connect!
