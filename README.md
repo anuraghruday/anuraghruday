@@ -24,10 +24,10 @@ If you're looking for a solution-driven engineer with expertise in AI, Robotics,
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuraghruday/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag.hruday@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://anuraghruday.github.io/)
 
 
----
+<!---
 
 ## Tech Stack 🖥️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -115,13 +115,9 @@ If you're looking for a solution-driven engineer with expertise in AI, Robotics,
 
 --->
 
-## Stats 📊
+<!--## Stats 📊
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraghruday&theme=gotham)-->
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuraghruday&theme=gotham)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuraghruday&theme=gotham) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuraghruday&theme=gotham) -->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuraghruday&theme=gotham) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuraghruday&theme=gotham&utcOffset=5) -->
-
-
-
