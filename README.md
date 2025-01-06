@@ -29,7 +29,7 @@ If you're looking for a solution-driven engineer with expertise in AI, Robotics,
 
 ---
 
-## Tech Stack 🖥️
+<!--## Tech Stack 🖥️
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -89,7 +89,7 @@ If you're looking for a solution-driven engineer with expertise in AI, Robotics,
 
 ---
 
-## Stats 📊
+<!--## Stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraghruday&theme=gotham)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuraghruday&theme=gotham) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuraghruday&theme=gotham) -->
