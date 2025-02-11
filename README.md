@@ -1,4 +1,3 @@
-
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -116,8 +115,8 @@ If you're looking for a solution-driven engineer with expertise in AI, Robotics,
 --->
 
 ## Stats 📊
-[](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraghruday&theme=gotham)
-[](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuraghruday&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraghruday&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuraghruday&theme=gotham)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuraghruday&theme=gotham) -->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuraghruday&theme=gotham) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuraghruday&theme=gotham&utcOffset=5) -->
