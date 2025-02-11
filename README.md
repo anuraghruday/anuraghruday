@@ -6,15 +6,9 @@
 </p>
 
 ### Welcome!
-I'm Anurag Hruday Pirangi, a robotics engineer and machine learning specialist with a knack for solving complex problems through AI and machine learning. My journey has included designing intelligent systems, optimizing traffic control with reinforcement learning, and advancing computer vision for real-world applications.
+I'm Anurag Hruday Pirangi, a robotics engineer and machine learning specialist with a knack for solving complex problems through AI and machine learning. 
 
-I specialize in:
-- Machine learning (classification, time series, and pattern recognition)
-- Computer vision (object detection, augmented reality)
-- Robotics and autonomous systems
-- Advanced Python and C++ development
-
-I'm passionate about leveraging technology to create impactful solutions, from developing AR projects for indoor pattern detection to designing traffic flow solutions with RNNs and attention mechanisms.
+I'm passionate about leveraging technology to create impactful solutions.
 
 ---
 
