@@ -6,9 +6,7 @@
 </p>
 
 ### Welcome!
-I'm Anurag Hruday Pirangi, a robotics engineer and machine learning specialist with a knack for solving complex problems through AI and machine learning. 
-
-I'm passionate about leveraging technology to create impactful solutions.
+I’m Anurag Hruday Pirangi, a robotics engineer and Artificial Intelligence specialist who enjoys turning math into motion and data into decisions. I solve complex problems with AI—basically, I debug reality for a living.
 
 ---
 
