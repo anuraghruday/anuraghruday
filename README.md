@@ -6,7 +6,7 @@
 </p>
 
 ### Welcome!
-I’m Anurag Hruday Pirangi, a robotics engineer and Artificial Intelligence specialist who enjoys turning math into motion and data into decisions. I solve complex problems with AI—basically, I debug reality for a living.
+I’m Anurag Hruday Pirangi, a robotics engineer and Artificial Intelligence specialist who enjoys turning math into motion and data into decisions. I solve complex problems with AI; basically, I debug reality for a living.
 
 ---
 
